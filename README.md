@@ -50,7 +50,7 @@ SELECT posts.Title, users.DisplayName FROM posts LEFT JOIN users ON posts.OwnerU
 ```
 
 A visualisation of the execution plan of the query:
-![](images/fulltext_plan_exercise5.png)
+![](images/join_plan_exercise4.png)
 
 
 # Exercise 5
